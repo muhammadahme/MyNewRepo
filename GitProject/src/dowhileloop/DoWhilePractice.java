@@ -9,6 +9,10 @@ public class DoWhilePractice {
 		  i++;
 		}
 		while (i < 5);
+		
+		for(int x=0;x<10;x++) {
+			System.out.println(x);
+		}
 
 	}
 
